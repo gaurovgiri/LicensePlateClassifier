@@ -1,0 +1,3 @@
+- [] Create a recognition model
+- [] Create an application
+- [] ...
